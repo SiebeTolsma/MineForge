@@ -18,7 +18,7 @@ After that, simply run `mvn package` to build instead.
 
 ## Developing
 
-Minefurnace welcomes contributions in the form of pull requests and issue reports. 
+Mineforge welcomes contributions in the form of pull requests and issue reports. 
 If you feel like working on Mineforge, just fork the repository and start working. 
 Once you're done submit a pull request.
 
